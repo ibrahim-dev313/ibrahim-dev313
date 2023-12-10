@@ -14,6 +14,6 @@
 
 <br />
 
-[<p align="center"><img height="75"  src="https://github.com/ibrahim-dev313/ibrahim-dev313/blob/main/assets/vecteezy_linkedin-logo-on-transparent-background_14018583.jpg?raw=true">](https://www.linkedin.com/in/ibrahim-dev313/)
+[<p align="center"><img height="75"  src="https://github.com/ibrahim-dev313/ibrahim-dev313/blob/main/assets/linkedin.jpg">](https://www.linkedin.com/in/ibrahim-dev313/)
 
 <br />
