@@ -1,4 +1,8 @@
-[![Profile Banner Image](https://raw.githubusercontent.com/ibrahim-dev313/ibrahim-dev313/main/assets/banner.png "Clickable profile banner image")](https://www.linkedin.com/in/ibrahim-dev313/)
+
+<p align="center">
+<a  href="https://www.linkedin.com/in/ibrahim-dev313/">
+<img width='100%' src="https://raw.githubusercontent.com/ibrahim-dev313/ibrahim-dev313/main/assets/banner.png" />
+</a></p>
 ## About Me
 #### 👋 Hey! I am Ibrahim, and I am a Web Developer. I love to create engaging and user-friendly websites. I use the ReactJS framework to build frontends; I like to style my websites with Tailwind; manage authentication with Firebase; and do basic CRUD operations with MongoDB and NodeJS. Currently I am diving deep into MERN Stack to become a Professional Web Developer.
 ## Current Stats
@@ -14,8 +18,10 @@
 
 <br />
 
-[<p align="center"><img height="75"  src="https://github.com/ibrahim-dev313/ibrahim-dev313/blob/main/assets/linkedin.jpg">](https://www.linkedin.com/in/ibrahim-dev313/)
 
+<p align="center">
+<a  href="https://www.linkedin.com/in/ibrahim-dev313/">
+<img  height="50" src="https://raw.githubusercontent.com/ibrahim-dev313/ibrahim-dev313/main/assets/linkedin.jpg" />
+</a></p>
 <br />
-[![](https://github.com/ibrahim-dev313/ibrahim-dev313/blob/main/assets/linkedin.jpg "LInkedIn clikable logo")](https://www.linkedin.com/in/ibrahim-dev313/)
 
